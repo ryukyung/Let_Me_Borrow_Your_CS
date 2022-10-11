@@ -12,18 +12,18 @@ CS 스터디는 네트워크, 데이터베이스, 알고리즘, 운영체제, �
 
 ### 🖋 순서
 
-[🤓 개발자 하려면 알아야 한다](https://www.notion.so/ffba2bde8a6845bb8d48200308248bc0)
+[🤓 개발자 하려면 알아야 한다](https://ifp-2022.notion.site/ffba2bde8a6845bb8d48200308248bc0)
 
-[🧠 운영체제](https://www.notion.so/1a3a5ad305b64017a1d12563006e2415)
+[🧠 운영체제](https://www.notion.so/ifp-2022/1a3a5ad305b64017a1d12563006e2415)
 
-[🌏 네트워크](https://www.notion.so/c16ded459b7743b485388fcb612a03f6)
+[🌏 네트워크](https://www.notion.so/ifp-2022/c16ded459b7743b485388fcb612a03f6)
 
-[🗃 데이터베이스](https://www.notion.so/31ef6924486640f4ac16b8e3f672432e)
+[🗃 데이터베이스](https://www.notion.so/ifp-2022/31ef6924486640f4ac16b8e3f672432e)
 
-[🗂 자료구조와 알고리즘](https://www.notion.so/633c8327722f446f9ed500cecee34310)
+[🗂 자료구조와 알고리즘](https://www.notion.so/ifp-2022/633c8327722f446f9ed500cecee34310)
 
 ### 🔗 참고
 
-[📚 쫌쫌따리 주워온거](https://www.notion.so/2ba62a2623524c188c45f2931dbf1fe8)
+[📚 쫌쫌따리 주워온거](https://www.notion.so/ifp-2022/2ba62a2623524c188c45f2931dbf1fe8)
 
 [🗄 notion](https://ifp-2022.notion.site/75365de74e064883883f5ff38f942747)
